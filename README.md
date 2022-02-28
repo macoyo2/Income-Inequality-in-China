@@ -6,4 +6,4 @@ This repo contains R scripts and an RMarkdown file used to analyze 1978 to 2016 
 Contents
   * R scrips can be found in /scripts
   * R markdown, references, and the final pdf can be found in /outputs
-
+  * CSV file of raw data can be found in /inputs
